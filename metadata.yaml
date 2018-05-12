@@ -1,0 +1,31 @@
+_repo: Stories-to-Tell-ChildrenFifty-Four-Stories-With-Some-Suggestions-For-Telling_16693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bryant, Sara Cone
+    alias: Borst, Sara Cone Bryant
+    birthdate: 1873
+    gutenberg_agent_id: '253'
+    url: http://www.gutenberg.org/2009/agents/253
+description: ''
+gutenberg_issued: '2005-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Storytelling -- Study and teaching'
+- !lcsh 'Storytelling'
+- !lcc 'PZ'
+- !lcc 'LB'
+title: 'Stories to Tell Children
+
+  Fifty-Four Stories With Some Suggestions For Telling'
+url: http://www.gutenberg.org/ebooks/16693
